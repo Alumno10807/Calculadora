@@ -1,0 +1,4 @@
+﻿  Calculadora.cpp
+C:\Users\Colibrí Gris\source\repos\Calculadora\Calculadora.cpp(13,22): warning C4305: 'inicializando': truncamiento de 'int' a 'char'
+C:\Users\Colibrí Gris\source\repos\Calculadora\Calculadora.cpp(13,18): warning C4309: 'inicializando': truncamiento de valor constante
+  Calculadora.vcxproj -> C:\Users\Colibrí Gris\source\repos\Calculadora\Debug\Calculadora.exe
